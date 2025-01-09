@@ -1,0 +1,27 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment specific
+.env
+.venv/
+.env*/
+*.env
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Render or deployment specific
+debug/
+
+# Byte-compiled / optimized /
